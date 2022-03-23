@@ -1,0 +1,17 @@
+.btn {
+    width: 5rem;
+    height: 2rem;
+    color: blueviolet;
+    background-color: orangered;
+    font-family: 'Arial Narrow', Helvetica;
+    margin-right: 10px;
+    font-size: large;
+}
+
+.btn:hover {
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    background-color: blueviolet;
+    color: orangered;
+    font-weight: bolder;
+    font-size: large;
+}

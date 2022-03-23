@@ -1,0 +1,8 @@
+body {
+  font-family: "Convergence", sans-serif;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  /* background-color: #060b23; */
+}
